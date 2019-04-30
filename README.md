@@ -1,0 +1,1 @@
+This is the first project within The Odin Project tutorial. It will probably get deleted sooner rather than later. 
